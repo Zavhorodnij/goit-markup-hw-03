@@ -173,7 +173,7 @@ span {
 .h2features { visually-hidden; }
 
 .section-second {
-  padding: 120px 0;
+  padding: 120px 0 ;
 }
 .second-section-ul {
   display: flex;
@@ -184,10 +184,7 @@ span {
 .second-section-li {
   width: calc((100% - 72px) / 4);
 }
-.second-section-li_0 {
 
-  width: calc((100% - 72px) / 4);
-}
 
 .title {
   margin-bottom: 8px;
@@ -233,12 +230,7 @@ span {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px
 }
-.our-team-list_0 {
-  width: calc((100% - 72px) / 4);
-  background-color: #ffffff;
-  border-radius: 0px 0px 4px 4px;
-  margin-right: 0px;
-}
+
 .title {
   text-align: center;
   font-family: "Roboto", sans-serif;
