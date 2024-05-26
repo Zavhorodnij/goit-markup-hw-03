@@ -139,6 +139,8 @@ span {
 
 /* h1 */
 .main-tittle {
+  margin-right: auto;
+  margin-left: auto;
   max-width: 496px;
   font-size: 56px;
   line-height: 1.07;
@@ -154,6 +156,8 @@ span {
   background-color: #404bbf;
 }
 .btn {
+  margin-right: auto;
+  margin-left: auto;
   display: block;
   border-radius: 4px;
   min-width: 169px;
